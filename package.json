@@ -1,7 +1,7 @@
 {
-  "name": "boilermaker",
+  "name": "Milestone",
   "version": "1.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "description": "Stackathon mobile project management app",
   "engines": {
     "node": ">= 7.0.0"
   },
